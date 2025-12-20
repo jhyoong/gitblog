@@ -1,0 +1,7 @@
+baseURL = 'https://example.org/'  # Update this with your actual domain
+languageCode = 'en-us'
+title = 'My Blog'
+theme = 'ananke'
+
+[build]
+  publishDir = 'public'
